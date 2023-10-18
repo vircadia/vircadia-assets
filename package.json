@@ -1,0 +1,10 @@
+{
+	"name": "vircadia-assets",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"main": "index.js",
+	"type": "module",
+	"scripts": {},
+	"author": "DigiSomni LLC"
+}
