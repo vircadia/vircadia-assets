@@ -1,6 +1,9 @@
 # Vircadia Assets
 
-Static files used by Vircadia Web.
+Static files used by Vircadia Web.  
+
+This repo is optimized to be used as a submodule.  
+Here are some [handy instructions](https://gist.github.com/gitaarik/8735255) for working with Git submodules.
 
 
 ## Programmatic Access
