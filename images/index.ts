@@ -1,7 +1,7 @@
 import * as branding from "./branding/index.js";
 
 export const directories = {
-	branding
-};
+    branding
+} as const;
 
-export const files = [];
+export const files = [] as const;
