@@ -1,11 +1,13 @@
 import * as audio from "./audio/index.js";
 import * as icons from "./icons/index.js";
 import * as models from "./models/index.js";
+import * as video from "./video/index.js";
 
 export const directories = {
 	audio,
 	icons,
-	models
+	models,
+	video
 };
 
 export const files = [];
